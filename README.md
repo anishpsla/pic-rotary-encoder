@@ -1,4 +1,4 @@
 pic-rotary-encoder
 ==================
 
-Rotary Encoder for PIC using MikroC C compiler
+PIC Rotary Encoder is a bit of code written in MikroC C compiler for reading the status of Rotary Encoder. Code is still in alpha stage.
